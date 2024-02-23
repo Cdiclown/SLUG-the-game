@@ -3,7 +3,7 @@ Questo progetto prevede l'implementazione di un gioco platform con grafica ASCII
 
 Il gioco include diversi tipi di nemici e artefatti, e per passare da una stanza all'altra è necessario raccogliere artefatti o sconfiggere nemici. Inoltre, il giocatore può trovare "poteri" che sbloccano passaggi verso artefatti nascosti. Il punteggio è gestito manualmente dal giocatore umano che controlla il protagonista, creando un coinvolgente mix di strategia e abilità nel superare sfide e accumulare punteggi sempre più alti.
 
-I  punti vita cambieranno costantemente durante il gioco, in seguito all'incontro di artefatti che aggiungono, o di nemici che detraggono punteggio. Questo e i ripettivi cuori (<3) saranno sempre visibili sotto la finestra di gioco
+I  punti vita cambieranno costantemente durante il gioco, in seguito all'incontro di artefatti che aggiungono, o di nemici che detraggono punteggio. Questo e i rispettivi cuori (<3) saranno sempre visibili sotto la finestra di gioco
 
 Ci sono più tipi di nemici che si possono incontrare:
 
